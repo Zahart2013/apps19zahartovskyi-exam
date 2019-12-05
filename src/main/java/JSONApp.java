@@ -36,7 +36,7 @@ public class JSONApp {
 
 
     public static JsonObject sessionResult() {
-        JsonObject jsonObject = null;
+        JsonObject jsonObject = new JsonObject();
 
         return jsonObject;
     }
